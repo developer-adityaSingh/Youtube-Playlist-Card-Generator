@@ -4,14 +4,6 @@
 
 ![Project Demo](https://github.com/developer-adityaSingh/Youtube-Playlist-Card-Generator/blob/master/preview.png)
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 The **YouTube Playlist Card Generator** is a tool that allows you to create visually appealing cards for YouTube playlists. This project makes it easy to showcase playlists in a stylish and professional manner.
