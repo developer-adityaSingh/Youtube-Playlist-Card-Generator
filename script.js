@@ -1,3 +1,4 @@
+document.title="Playlist Card generator using DOM Concept"
 var title= ""
 var cName= ""
 var views= 0
